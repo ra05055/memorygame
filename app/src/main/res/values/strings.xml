@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Juego de Memoria</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Descripcion">Esfera</string>
+</resources>
